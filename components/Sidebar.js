@@ -36,6 +36,7 @@ const Sidebar = ({ children }) => {
             </div>
           </Link>
         </div>
+        <img src="https://images.pexels.com/photos/16943680/pexels-photo-16943680/free-photo-of-mood-by-ranti-marsyanda-photographed-chandri-anggara.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" className=" object-contain h-20 w-20 rounded-xl"/>
       </div>
       <main className="w-full ml-20"> {children}</main>
     </div>
